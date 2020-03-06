@@ -4,7 +4,7 @@
 - [Path of Exile Necronomicon (poenomicon)](#path-of-exile-necronomicon-poenomicon)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
-  - [DPS Spectres](#dps-spectres)
+  - [Damage Spectres](#damage-spectres)
     - [Solar Guard](#solar-guard)
     - [Goatman Fire-Raiser](#goatman-fire-raiser)
     - [Enhanced Vaal Fallen](#enhanced-vaal-fallen)
@@ -12,6 +12,14 @@
     - [Flame Sentinel](#flame-sentinel)
     - [Tukohama's Vanguard](#tukohamas-vanguard)
     - [Baranite Thaumaturge](#baranite-thaumaturge)
+    - [Baranite Purge Knight](#baranite-purge-knight)
+    - [Baranite Preacher](#baranite-preacher)
+    - [Winged Viper](#winged-viper)
+    - [Hunting Party](#hunting-party)
+    - [Redemption Sentry](#redemption-sentry)
+    - [Snowcaller](#snowcaller)
+    - [Redemption Knight](#redemption-knight)
+    - [Snow Rhex](#snow-rhex)
     - [Lithomancer](#lithomancer)
     - [Templar War Maiden](#templar-war-maiden)
     - [Peacekeeper](#peacekeeper)
@@ -35,10 +43,10 @@
 ## Introduction
 
 The [Raise Spectre](https://pathofexile.gamepedia.com/Raise_Spectre) skill allows you to raise the corpse of a defeated monster as a minion to fight for you.
-As of patch 3.10, almost all monsters in the game are spectreable, including league specific ones. This means there are a lot of good options for both DPS
+As of patch 3.10, almost all monsters in the game are spectreable, including league specific ones. This means there are a lot of good options for both Damage
 and utility spectres, so this repository aims to collect the most effective/interesting spectre choices in a central place.
 
-## DPS Spectres
+## Damage Spectres
 
 ### Solar Guard
 
@@ -125,6 +133,54 @@ Minion Damage - Burning Damage - Multiple Totems - Elemental Focus - Efficacy
 Waiting for 3.10 for details
 
 [poedb-link](https://poedb.tw/us/mon.php?n=Baranite+Thaumaturge)
+
+### Baranite Purge Knight
+
+Waiting for 3.10 for details
+
+[poedb-link](https://poedb.tw/us/mon.php?n=Baranite+Purge+Knight)
+
+### Baranite Preacher
+
+Waiting for 3.10 for details
+
+[poedb-link](https://poedb.tw/us/mon.php?n=Baranite+Preacher)
+
+### Winged Viper
+
+Waiting for 3.10 for details
+
+[poedb-link](https://poedb.tw/us/mon.php?n=Winged+Viper)
+
+### Hunting Party
+
+Waiting for 3.10 for details
+
+[poedb-link](https://poedb.tw/us/mon.php?n=Hunting+Party)
+
+### Redemption Sentry
+
+Waiting for 3.10 for details
+
+[poedb-link](https://poedb.tw/us/mon.php?n=Redemption+Sentry)
+
+### Snowcaller
+
+Waiting for 3.10 for details
+
+[poedb-link](https://poedb.tw/us/mon.php?n=Snowcaller)
+
+### Redemption Knight
+
+Waiting for 3.10 for details
+
+[poedb-link](https://poedb.tw/us/mon.php?n=Redemption+Knight)
+
+### Snow Rhex
+
+Waiting for 3.10 for details
+
+[poedb-link](https://poedb.tw/us/mon.php?n=Snow+Rhex)
 
 ### Lithomancer
 
